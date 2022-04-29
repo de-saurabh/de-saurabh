@@ -20,7 +20,7 @@
 ### - Skills :
 - ✨ JavaScript
 - ✨ TypeScript
-- ✨ PostgresSql
+- ✨ PostgresSQL
 - ✨ TypeORM
 
 ### - Learning :
