@@ -1,4 +1,7 @@
 ### Hi there 👋
+<!-- Markdown -->
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-saurabh)](https://github.com/e-saurabh/github-readme-stats)
 <!--
 **de-saurabh/de-saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
