@@ -31,8 +31,6 @@
 - ✨ Python
 
 </br>
-</br>
-</br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)<br/><br/>
 [![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-saurabh)](https://github.com/e-saurabh/github-readme-stats)<br/><br/>
