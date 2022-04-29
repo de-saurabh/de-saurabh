@@ -8,7 +8,7 @@
 💬 Ask me about anything.<br/>
 📫 How to reach me: No idea.<br/>
 😄 Pronouns: He/Apache Helicopter.<br/>
-⚡ Fun fact: I am not a fun person.<br/>
+⚡ Fun fact: I am not a fun person.<br/><br/>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)<br/><br/>
 [![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-saurabh)](https://github.com/e-saurabh/github-readme-stats)<br/><br/>
