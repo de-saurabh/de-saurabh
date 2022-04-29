@@ -1,16 +1,16 @@
 ### Hi there 👋
 <!-- Markdown -->
 
-🔭 I’m currently working on something.
-🌱 I’m currently learning HTML/CSS.
-👯 I’m looking to collaborate on nothing.
-🤔 I’m looking for help with with life.
-💬 Ask me about anything.
-📫 How to reach me: No idea
-😄 Pronouns: He/Apache Helicopter
-⚡ Fun fact: I am not a fun person.
+🔭 I’m currently working on something.__
+🌱 I’m currently learning HTML/CSS.__
+👯 I’m looking to collaborate on nothing.__
+🤔 I’m looking for help with with life.__
+💬 Ask me about anything.__
+📫 How to reach me: No idea__
+😄 Pronouns: He/Apache Helicopter__
+⚡ Fun fact: I am not a fun person.__
 
-[![Jokes Card]](https://readme-jokes.vercel.app/api)
+![Jokes Card](https://readme-jokes.vercel.app/api)
 [![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-saurabh)](https://github.com/e-saurabh/github-readme-stats)
 <!--
 **de-saurabh/de-saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
