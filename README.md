@@ -34,6 +34,10 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)<br/><br/>
 [![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-saurabh)](https://github.com/e-saurabh/github-readme-stats)<br/><br/>
+<div align="center">
+  <img hight="150" width="350" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/john-cena-super-saiyan.gif">
+  <img hight="150" width="350" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/icegif-1013.gif">
+</div>
 <!--
 **de-saurabh/de-saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
