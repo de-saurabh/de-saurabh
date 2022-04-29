@@ -2,7 +2,7 @@
 <!-- Markdown -->
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/hello.gif">
+<img hight="150" width="350" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/hello.gif">
 </div>
 
 </br>
