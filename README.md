@@ -1,6 +1,14 @@
 ### Hi there 👋
 <!-- Markdown -->
 
+<div align="center">
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/hello.gif">
+</div>
+
+</br>
+</br>
+</br>
+
 🔭 I’m currently working on something.<br/>
 🌱 I’m currently learning HTML/CSS.<br/>
 👯 I’m looking to collaborate on nothing.<br/>
