@@ -1,4 +1,3 @@
-### Hi there 👋
 <!-- Markdown -->
 
 <div align="center">
@@ -9,14 +8,29 @@
 </br>
 </br>
 
-🔭 I’m currently working on something.<br/>
-🌱 I’m currently learning HTML/CSS.<br/>
-👯 I’m looking to collaborate on nothing.<br/>
-🤔 I’m looking for help with with life.<br/>
-💬 Ask me about anything.<br/>
-📫 How to reach me: No idea.<br/>
-😄 Pronouns: He/Apache Helicopter.<br/>
-⚡ Fun fact: I am not a fun person.<br/><br/>
+### - Work history :
+- ✨ As a backend dev for an awesome EdTech company known as Surreal Technologies (Nov 2019 - Current)
+- ✨ As a cyber security consultant for PwC India (Jan 2019 - Oct 2019)
+- ✨ As a automation engineer intern for Oracle (Jul 2018 - Jan 2019)
+
+### - Education :
+- ✨ M.Tech in Cyber Security from Amrita Vishwa Vidyapeetham (2017-2019)
+- ✨ B.Tech in Computer Science and Engineering from The Assam Kaziranga University (2012 - 2016)
+
+### - Skills :
+- ✨ JavaScript
+- ✨ TypeScript
+- ✨ PostgresSql
+- ✨ TypeORM
+
+### - Learning :
+- ✨ Data Structures & Algorithms
+- ✨ HTML/CSS
+- ✨ React
+
+</br>
+</br>
+</br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)<br/><br/>
 [![Saurabh's GitHub stats](https://github-readme-stats.vercel.app/api?username=de-saurabh)](https://github.com/e-saurabh/github-readme-stats)<br/><br/>
