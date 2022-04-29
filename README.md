@@ -37,7 +37,7 @@
 <div align="center">
   <img hight="150" width="350" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/john-cena-super-saiyan.gif"></br>
 </br>
-  <img hight="150" width="350" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/icegif-1013.gif">
+  <img hight="150" width="350" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/im-out-bye.gif">
 </div>
 <!--
 **de-saurabh/de-saurabh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
