@@ -33,7 +33,7 @@
 </br>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)<br/><br/>
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=de-saurabh)<br/><br/>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=de-saurabh&count_private=true)<br/><br/>
 <div align="center">
   <img hight="150" width="350" alt="GIF" align="center" src="https://github.com/de-saurabh/de-saurabh/blob/main/assets/john-cena-super-saiyan.gif"></br>
 </br>
