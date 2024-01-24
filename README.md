@@ -25,11 +25,7 @@
 - ✨ TypeORM
 
 ### - Learning :
-- ✨ Data Structures & Algorithms
-- ✨ HTML/CSS
-- ✨ React
-- ✨ Go
-- ✨ Python
+- ✨ RUST as of 24th Jan, 2024
 
 </br>
 
