@@ -10,7 +10,8 @@
 ![](https://komarev.com/ghpvc/?username=de-saurabh&style=flat-square)
 
 ### - Work history :
-- ✨ As a backend dev for an awesome EdTech company known as Surreal Technologies (Nov 2019 - Current)
+- ✨ As a software engineer iii at Storable
+- ✨ As a backend lead for an awesome EdTech company known as Surreal Technologies (Nov 2019 - Jan 2025)
 - ✨ As a cyber security consultant for PwC India (Jan 2019 - Oct 2019)
 - ✨ As a automation engineer intern for Oracle (Jul 2018 - Jan 2019)
 
@@ -25,7 +26,8 @@
 - ✨ TypeORM
 
 ### - Learning :
-- ✨ RUST as of 24th Jan, 2024
+- ✨ RUST
+- ✨ GoLang
 
 </br>
 
